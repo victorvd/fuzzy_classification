@@ -1,0 +1,43 @@
+very small,large,very small,very small,0.065429,Iris-setosa
+small,very large,very small,very small,0.271682,Iris-setosa
+very small,small,very small,very small,0.020411,Iris-setosa
+small,large,very small,very small,0.180509,Iris-setosa
+medium,very large,very small,very small,0.018612,Iris-setosa
+very small,large,,very small,0.000000,Iris-setosa
+very small,medium,very small,very small,0.156660,Iris-setosa
+small,medium,very small,very small,0.222905,Iris-setosa
+very small,very small,very small,very small,0.118996,Iris-setosa
+large,medium,large,medium,0.176859,Iris-versicolor
+small,very small,medium,medium,0.773183,Iris-versicolor
+very small,very small,small,small,0.089280,Iris-versicolor
+very small,,medium,small,0.000000,Iris-versicolor
+medium,very small,medium,small,0.245150,Iris-versicolor
+large,medium,medium,medium,0.145171,Iris-versicolor
+medium,small,medium,small,0.109946,Iris-versicolor
+medium,medium,large,large,0.296047,Iris-versicolor
+medium,small,medium,medium,0.771161,Iris-versicolor
+medium,small,large,medium,0.276597,Iris-versicolor
+large,small,large,medium,0.357254,Iris-versicolor
+large,medium,large,large,0.194027,Iris-versicolor
+small,small,medium,small,0.038471,Iris-versicolor
+small,very small,medium,small,0.189637,Iris-versicolor
+medium,medium,medium,large,0.034016,Iris-versicolor
+small,medium,medium,medium,0.156344,Iris-versicolor
+medium,medium,large,medium,0.080709,Iris-versicolor
+small,small,medium,medium,0.335162,Iris-versicolor
+small,very small,small,medium,0.023514,Iris-versicolor
+medium,medium,very large,very large,0.009914,Iris-virginica
+very small,very small,medium,large,0.048526,Iris-virginica
+large,very small,very large,large,0.118716,Iris-virginica
+small,very small,large,very large,0.037981,Iris-virginica
+medium,small,large,very large,0.094941,Iris-virginica
+medium,medium,large,very large,0.161259,Iris-virginica
+small,small,large,very large,0.125076,Iris-virginica
+very large,medium,very large,large,0.276131,Iris-virginica
+medium,small,large,large,0.367753,Iris-virginica
+very large,small,very large,large,0.348335,Iris-virginica
+very large,large,very large,very large,0.002466,Iris-virginica
+very large,medium,very large,very large,0.093653,Iris-virginica
+large,medium,very large,very large,0.416393,Iris-virginica
+large,medium,large,very large,0.148534,Iris-virginica
+medium,very small,large,large,0.092752,Iris-virginica
